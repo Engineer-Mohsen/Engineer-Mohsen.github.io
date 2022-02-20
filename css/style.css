@@ -989,7 +989,7 @@ label.error {
     }
     
       header.header .overlay h1 {
-        font-size: 25px;
+        font-size: 20px !important ;
     }
 
   
