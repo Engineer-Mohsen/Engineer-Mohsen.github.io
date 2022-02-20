@@ -966,6 +966,10 @@ label.error {
     .custom-thumbnail{
         margin-bottom: 20px !important;
     }
+    
+    header.header .overlay h1 {
+        font-size: 28px;
+    }
 }
 
 @media only screen and (max-width: 350px) {
@@ -982,6 +986,10 @@ label.error {
 
     .custom-thumbnail{
         margin-bottom: 20px !important;
+    }
+    
+      header.header .overlay h1 {
+        font-size: 25px;
     }
 
   
