@@ -968,7 +968,8 @@ label.error {
     }
     
     header.header .overlay h1 {
-        font-size: 28px;
+        font-size: 18px !important;
+        font-weight: bold !important;
     }
 }
 
@@ -988,10 +989,10 @@ label.error {
         margin-bottom: 20px !important;
     }
     
-      header.header .overlay h1 {
-        font-size: 20px !important ;
+     header.header .overlay h1 {
+        font-size: 18px !important;
+        font-weight: bold !important;
     }
-
   
 }
 
